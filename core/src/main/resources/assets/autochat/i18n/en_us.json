@@ -1,0 +1,16 @@
+{
+  "autochat": {
+    "settings": {
+      "name": "AutoChat",
+      "enabled": {
+        "name": "AutoChat enabled"
+      },
+      "message": {
+        "name": "Message"
+      },
+      "intervalMinutes": {
+        "name": "Interval in minutes"
+      }
+    }
+  }
+}
